@@ -29,7 +29,7 @@ hipótese sobre a causa do movimento foi adotada.
 | Magnitude alegada | ~+2000%, **não verificada** |
 | Fonte da alegação | memória/observação do Marcelo |
 | Conhecimento prévio no momento do registro | direção (alta), ordem de grandeza, existência do evento |
-| P&L pessoal associado | não declarado — **preencher antes de fechar o registro** |
+| P&L pessoal associado | sem posição; exposição por observação de tela apenas |
 
 ### 2.1 Consequência imediata (Regra 4)
 
